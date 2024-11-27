@@ -7,11 +7,12 @@ I’m Thành Đạt, and this is the repository for my **Capstone Projects**. Be
 ## Projects List 📚
 
 ### 1. **Cafe Rewards Insights & Analysis** ☕📊
-   - Slide Presentation 🖼️
-   - Pre-Processing Checklists 📋
-   - SQL Code 💻
-   - Python Code 🐍
-   - PowerBI File 📈
+   - 📑 Slide Presentation -  Comprehensive analysis & recommendations (PDF)
+   - 📊 Interactive dashboards (PowerBI)
+   - 🔍 Pre-Processing Checklists
+   - 🌳 Issue Tree
+   - 💻 SQL Code 
+   - 🐍 Python Code
 
 ### 2. **UK Train Analysis** 🚆📉
    - Data Exploration and Visualizations 📊
